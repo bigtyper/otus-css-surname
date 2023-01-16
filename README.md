@@ -1,2 +1,7 @@
-# otus-css-surname
-otus-css-surname
+Файл README.md создан в формате выполнения ДЗ второго занятия курса HTML/CSS otus.ru
+Данный файл пока создан без форматирования из текстового редактора vim
+Репозиторий otus-css-surname создан "руками" и склонирован в один из локальных каталогов компьютера командой 
+git clone https://github.com/bigtyper/otus-css-surname.git
+
+
+
